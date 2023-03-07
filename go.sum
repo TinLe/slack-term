@@ -1,12 +1,13 @@
 github.com/0xAX/notificator v0.0.0-20171022182052-88d57ee9043b h1:Sn+u6zpXFyfm2X7ruh+z6SJiUVyFg8YElh6HIOhrRCA=
 github.com/0xAX/notificator v0.0.0-20171022182052-88d57ee9043b/go.mod h1:NtXa9WwQsukMHZpjNakTTz0LArxvGYdPA9CjIcUSZ6s=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/erroneousboat/termui v0.0.0-20170923115141-80f245cdfa04 h1:DaFwoQC0Neeb2y2CVFxDPrS1BeyWAkKc4VVBDTZ0N98=
 github.com/erroneousboat/termui v0.0.0-20170923115141-80f245cdfa04/go.mod h1:UPpsbgDrqmUayOFOkCGD7+xrBIml/1dA0dsqTRnZqac=
 github.com/gorilla/websocket v1.2.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
-github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
-github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/gorilla/websocket v1.4.1 h1:q7AeDBpnBk8AogcD4DSag/Ukw/KV+YhzLj2bP5HvKCM=
+github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/maruel/panicparse v1.1.1 h1:k62YPcEoLncEEpjMt92GtG5ugb8WL/510Ys3/h5IkRc=
 github.com/maruel/panicparse v1.1.1/go.mod h1:nty42YY5QByNC5MM7q/nj938VbgPU7avs45z6NClpxI=
 github.com/mattn/go-runewidth v0.0.3 h1:a+kO+98RDGEfo6asOGMmpodZq4FNtnGP54yps8BzLR4=
@@ -20,9 +21,11 @@ github.com/nsf/termbox-go v0.0.0-20180819125858-b66b20ab708e/go.mod h1:IuKpRQcYE
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/renstrom/fuzzysearch v1.0.1 h1:hnh2Fhqqa5I41Xgmm7UMAYgEIRn/iZwWItfwUHr1IWE=
 github.com/renstrom/fuzzysearch v1.0.1/go.mod h1:SAEjPB4voP88qmWJXI7mA5m15uNlEnuHLx4Eu2mPGpQ=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
+github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
